@@ -4,8 +4,9 @@ import java.util.Arrays;
  * DevOpsWorld is a basic Java program designed to demonstrate
  * good practices in naming, input validation, and maintainability.
  */
-public class DevOpsWorld {
-
+public class devOpswowwrld {
+hjjddd
+    welcome to devops 
     /**
      * The main method is the entry point of the application.
      * 
